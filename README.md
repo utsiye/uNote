@@ -25,7 +25,7 @@ To run the uNote program, execute the `main.py` script using Python:
 
 The program will open a GUI window where you can create and manage your notes.
 
-#### Managing entries
+### Managing entries
 - **Copy Content:** To copy the content of the entry fields, you can use the context menu and select the "Copy" option with the right mouse button.
 - **Deleting a category:** To delete a category, double-click on it with the mouse wheel.
 
