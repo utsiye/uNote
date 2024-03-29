@@ -33,5 +33,3 @@ The program will open a GUI window where you can create and manage your notes.
 ## Building the Executable
 
 If you are using a **64-bit Windows** operating system, you can also use the `uNote.exe` file provided to run the program without Python installed. Simply double-click on the `uNote.exe` file to launch the program.
-
-![Example 2](image/2.png)
